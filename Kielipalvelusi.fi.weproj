@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<WebEditorProject>
+    <!---->
+    <ProjectInformation>
+        <ProjectName>Kielipalvelusi.fi</ProjectName>
+        <ProjectVersion>2.0</ProjectVersion>
+        <ServerInfo ServerID="-1"></ServerInfo>
+        <S-DriveURL></S-DriveURL>
+    </ProjectInformation>
+    <!---->
+    <ProjectTreeFirstLevel>
+        <Node Type="2" LinkName="">./css/</Node>
+        <Node Type="2" LinkName="">./fonts/</Node>
+        <Node Type="2" LinkName="">./images/</Node>
+        <Node Type="2" LinkName="">./js/</Node>
+        <Node Type="5" LinkName="">./elements.html</Node>
+        <Node Type="5" LinkName="">./generic.html</Node>
+        <Node Type="5" LinkName="">./index.html</Node>
+        <Node Type="5" LinkName="">./LICENSE.txt</Node>
+    </ProjectTreeFirstLevel>
+    <!---->
+    <ShowedFiles>
+        <ShowedFileEditor1 FirstVisibleLine="0" CursorPosition="0">./index.html</ShowedFileEditor1>
+    </ShowedFiles>
+    <!---->
+</WebEditorProject>
