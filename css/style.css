@@ -485,6 +485,8 @@
 			display: block;
 			margin: 0 0 2em 0;
 			width: 100%;
+			box-shadow: 10px 10px 50px #888888;
+			border-radius: 20px;
 		}
 
 			.image.fit img {
@@ -1001,6 +1003,7 @@
 		
 		#banner .lisatietoa {
 			visibility: hidden;
+			size: 0px;
 		}
 
 /* Wrapper */
