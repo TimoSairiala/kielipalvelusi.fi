@@ -12,8 +12,8 @@ else {
 	$message .= "Email: ".$_POST['email']."\n\n";
 	$message .= "Viesti: ".$_POST['viesti']."\n";
 	
-	$headers = 'From: info@kielipalvelu.fi'."\r\n";
-	$headers .= 'Reply-To: '.$_POST['email']."\r\n";
+	$headers = 'From: info@kielipalvelu.fi'."\r\n"
+				. 'Reply-To: '.$_POST['email']."\r\n";
 	
 	mail( $email_to, $subject, $message, $headers );
 }
